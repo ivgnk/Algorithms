@@ -1,4 +1,4 @@
-def reverse_dat(a,b):
+def reverse_dat(a, b):
     """
     Входные данные: массив numpy
     Выходные данные: обращенный массив numpy
@@ -12,4 +12,3 @@ def reverse_dat(a,b):
     #  c = b;  b1 = a;   a1 = c
     [b, a] = [a, b]
     return a, b
-

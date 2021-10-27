@@ -25,6 +25,7 @@ from pcycle_test import *
 # print(c==d)
 
 # get_data_from_cmdln()
+#test_numpy_test(numpy_test2)
 # print2_get_doc()
 # dict_test()
 # numpy_test1()
