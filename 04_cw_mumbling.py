@@ -1,4 +1,5 @@
 """
+Fundamentals
 The examples below show you how to write function accum:
 Examples:
 accum("abcd") -> "A-Bb-Ccc-Dddd"

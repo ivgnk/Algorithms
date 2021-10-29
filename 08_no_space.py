@@ -1,4 +1,5 @@
 """
+Fundamentals
 Simple, remove the spaces from the string, then return the resultant string
 Просто удалите пробелы из строки, а затем верните результирующую строку
 """
