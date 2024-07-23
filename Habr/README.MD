@@ -13,7 +13,7 @@ https://habr.com/ru/articles/818883/
 # Python                 
 https://habr.com/ru/hubs/python                    
 Прочитаны статьи 19.07.2024-23.07.2024                  
-Zen of Python: история, реализация и пасхалки                                
+Может ли распределение Пуассона описать статистику футбольных матчей https://habr.com/ru/articles/830402/                                              
 
 ## geopandas
 https://habr.com/ru/search/?q=[geopandas]&target_type=posts&order=date                           
