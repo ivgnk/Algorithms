@@ -6,13 +6,12 @@ https://habr.com/ru/users/Scorobey/publications/articles/ - математика
 https://habr.com/ru/users/helenblack/publications/articles - символьные вычисления                   
 
 # Algorithms                      
+https://habr.com/ru/hubs/algorithms/articles
+
 ## The five letters game 
-
-
-19 июня 2024 г Python program for word guessing game                     
+19.06.2024 г Python program for word guessing game                     
 [Python] https://www.geeksforgeeks.org/python-program-for-word-guessing-game                      
-
-https://habr.com/ru/hubs/algorithms/articles                          
+                     
 [C#] 02.06.2024 Механика и стратегия игры «5букв» - **русский словарь !**                                                     
 https://habr.com/ru/articles/818883                                                    
 https://github.com/apodavalov/5bukv                               
