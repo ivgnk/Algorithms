@@ -9,6 +9,8 @@ https://habr.com/ru/users/helenblack/publications/articles - символьны�
 https://habr.com/ru/hubs/algorithms/articles
 
 ## The five letters game 
+https://github.com/search?q=5bukv+language%3APython&type=repositories&s=stars&o=desc&l=Python
+
 19.06.2024 г Python program for word guessing game                     
 [Python] https://www.geeksforgeeks.org/python-program-for-word-guessing-game                      
                      
