@@ -43,6 +43,11 @@ https://habr.com/ru/articles/647783
 https://habr.com/ru/hubs/python                                 
 Прочитаны статьи 19.07.2024-23.07.2024                                  
 Может ли распределение Пуассона описать статистику футбольных матчей https://habr.com/ru/articles/830402/                                                                                            
+## Functions                
+05.06.2024 Функции в Python: исчерпывающий гайд      https://skillbox.ru/media/code/funktsii-v-python-dlya-chego-oni-nuzhny-i-kak-s-nimi-rabotat/                               
+
 
 ## geopandas                                    
 https://habr.com/ru/search/?q=[geopandas]&target_type=posts&order=date                                                 
+
+
