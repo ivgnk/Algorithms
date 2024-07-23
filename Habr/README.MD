@@ -1,9 +1,9 @@
 Статьи                      
 
 # Authors                         
-https://habr.com/ru/users/N-Cube/publications/articles/          
-https://habr.com/ru/users/Scorobey/publications/articles/
-https://habr.com/ru/users/helenblack/publications/articles - символьные вычисления                
+https://habr.com/ru/users/N-Cube/publications/articles/             
+https://habr.com/ru/users/Scorobey/publications/articles/ - математика                               
+https://habr.com/ru/users/helenblack/publications/articles - символьные вычисления                   
 
 # Algorithms                         
 https://habr.com/ru/hubs/algorithms/articles                 
