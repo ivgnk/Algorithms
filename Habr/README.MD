@@ -10,7 +10,7 @@ https://habr.com/ru/users/helenblack/publications/articles - символьны�
 
 
 19 июня 2024 г Python program for word guessing game
-[Python] https/www.geeksforgeeks.org/python-program-for-word-guessing-game/
+[Python] https://www.geeksforgeeks.org/python-program-for-word-guessing-game
 
 https://habr.com/ru/hubs/algorithms/articles                 
 [C#] 02.06.2024 Механика и стратегия игры «5букв» - **русский словарь !**                                         
