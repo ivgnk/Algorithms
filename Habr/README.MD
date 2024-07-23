@@ -9,6 +9,8 @@ https://habr.com/ru/users/helenblack/publications/articles - символьны�
 https://habr.com/ru/hubs/algorithms/articles
 
 ## The five letters game 
+<details>
+   <summary>The five letters game</summary>           
 
 **https://github.com/search?q=5bukv+language%3APython&type=repositories&s=stars&o=desc&l=Python**
 
@@ -34,6 +36,8 @@ https://www.cyberforum.ru/python-beginners/thread3141286.html
 
 [Python] 25.01.2022 Ещё одно решение игры Wordle на Python                            
 https://habr.com/ru/articles/647783                                                  
+</details>
+
 
 # Python                 
 https://habr.com/ru/hubs/python                                 
