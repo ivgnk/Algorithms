@@ -64,6 +64,7 @@ https://habr.com/ru/hubs/python
 https://habr.com/ru/articles
 
 ## ML / DL / DS / AI
+
 <details>
    <summary>Others ML / DL / DS / AI</summary>           
 Выпускные проекты участников senior-буткемпа «кодИИм» (июль 2024 г.) https://habr.com/ru/hubs/python/articles/                    
@@ -72,6 +73,7 @@ https://habr.com/ru/articles
 SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/808415/               
 Руководство по Apache Spark не для начинающих: оптимизация https://habr.com/ru/companies/alfa/articles/829622/          
 </details>
+
 ### LLM 
 Проблемы с логикой у LLM и с доверием не только у LLM https://habr.com/ru/articles/830370/
 
