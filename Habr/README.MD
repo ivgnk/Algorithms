@@ -8,6 +8,9 @@ https://habr.com/ru/users/helenblack/publications/articles - символьны�
 # Algorithms                      
 https://habr.com/ru/hubs/algorithms/articles
 
+
+Большие простые числа: доказательство простоты https://habr.com/ru/articles/830958             
+
 ## The five letters game 
 <details>
    <summary>The five letters game</summary>           
@@ -82,6 +85,7 @@ SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/8084
 
 ### LLM 
 Проблемы с логикой у LLM и с доверием не только у LLM https://habr.com/ru/articles/830370/
+[5 удобных Телеграм-ботов с Chat GPT для написания кода](5 удобных Телеграм-ботов с Chat GPT для написания кода)               
 
 ## Visualisation 
 Использование Manim + Python для визуализации. Перестановка (комбинаторика) https://habr.com/ru/articles/829834/
@@ -92,6 +96,9 @@ SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/8084
 
 ## Управление             
 [Спиральная динамика — как эволюционирует команда](https://habr.com/ru/articles/828208)            
+
+## Конференции 
+14 конференций осени и 14 видеозаписей докладов https://habr.com/ru/companies/jugru/articles/830768/                 
 
 
 ## Functions                
