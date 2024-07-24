@@ -89,6 +89,8 @@ SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/8084
 ## ГИС    
 Все реки в порядке: как и зачем в географических науках ранжируют водотоки https://habr.com/ru/articles/830334/                
 
+## Управление             
+[Спиральная динамика — как эволюционирует команда](https://habr.com/ru/articles/828208)            
 
 
 ## Functions                
