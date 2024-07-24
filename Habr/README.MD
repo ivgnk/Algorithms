@@ -69,12 +69,15 @@ https://habr.com/ru/articles
    <summary>Others ML / DL / DS / AI</summary>           
 Выпускные проекты участников senior-буткемпа «кодИИм» (июль 2024 г.) https://habr.com/ru/hubs/python/articles/                    
 Слияние словарей в PyTorch: зачем нужно и подводные камни https://habr.com/ru/companies/ruvds/articles/825950/               
-
-[**Сравнение сервисов Искусственного Интеллекта**](https://habr.com/ru/articles/830254)                   
-
-SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/808415/               
+          
+SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/808415/                
 Руководство по Apache Spark не для начинающих: оптимизация https://habr.com/ru/companies/alfa/articles/829622/          
 </details>
+
+## Сервисы               
+[**Сравнение сервисов Искусственного Интеллекта**](https://habr.com/ru/articles/830254)                         
+[Как создать свой стикер пак с помощью нейросети Stable Diffusion](https://habr.com/ru/articles/830230/)                  
+
 
 ### LLM 
 Проблемы с логикой у LLM и с доверием не только у LLM https://habr.com/ru/articles/830370/
