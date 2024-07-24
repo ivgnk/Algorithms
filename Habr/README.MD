@@ -47,6 +47,14 @@ https://habr.com/ru/articles/647783
 24.07.2024
 Memex: как мы можем мыслить? Гипертекстовое устройство из 1945 года                 
 
+<details>
+   <summary>Habr arcticles</summary>           
+
+## Resume, Interview
+Как создать резюме бесплатно и не лишиться своих денег? https://habr.com/ru/articles/829800/        
+
+</details>
+
 # Python                 
 https://habr.com/ru/hubs/python                                 
 Прочитаны статьи 19.07.2024-23.07.2024                                  
