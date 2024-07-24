@@ -83,9 +83,11 @@ SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/8084
 [Как создать свой стикер пак с помощью нейросети Stable Diffusion](https://habr.com/ru/articles/830230/)                  
 
 
-### LLM 
+#### LLM 
 Проблемы с логикой у LLM и с доверием не только у LLM https://habr.com/ru/articles/830370/
 [5 удобных Телеграм-ботов с Chat GPT для написания кода](5 удобных Телеграм-ботов с Chat GPT для написания кода)               
+[Telegram bot, взаимодействующий с API OpenAI без проксирования. Разработка на Python](https://habr.com/ru/companies/amvera/articles/829592/)       
+
 
 ## Visualisation 
 Использование Manim + Python для визуализации. Перестановка (комбинаторика) https://habr.com/ru/articles/829834/
