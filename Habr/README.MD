@@ -39,10 +39,30 @@ https://habr.com/ru/articles/647783
 </details>
 
 
+# Habr 
+Проcмотрены статьи 18.07.2024-24.07.2024                                  
+18 июл в 19:06
+Использование Etcd для построения распределенных кластеризуемых приложений                 
+-
+24.07.2024
+Memex: как мы можем мыслить? Гипертекстовое устройство из 1945 года                 
+
 # Python                 
 https://habr.com/ru/hubs/python                                 
 Прочитаны статьи 19.07.2024-23.07.2024                                  
-Может ли распределение Пуассона описать статистику футбольных матчей https://habr.com/ru/articles/830402/                                                                                            
+Может ли распределение Пуассона описать статистику футбольных матчей https://habr.com/ru/articles/830402/                                                                                           
+
+
+https://habr.com/ru/articles
+
+ML / DL / DS / AI
+<details>
+   <summary>Others ML / DL / DS / AI</summary>           
+Выпускные проекты участников senior-буткемпа «кодИИм» (июль 2024 г.) https://habr.com/ru/hubs/python/articles/                    
+Слияние словарей в PyTorch: зачем нужно и подводные камни https://habr.com/ru/companies/ruvds/articles/825950/               
+
+</details>
+
 ## Functions                
 05.06.2024 Функции в Python: исчерпывающий гайд      https://skillbox.ru/media/code/funktsii-v-python-dlya-chego-oni-nuzhny-i-kak-s-nimi-rabotat/                               
 
