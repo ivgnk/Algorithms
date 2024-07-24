@@ -8,8 +8,8 @@ https://habr.com/ru/users/helenblack/publications/articles - символьны�
 # Algorithms                      
 https://habr.com/ru/hubs/algorithms/articles
 
-
-Большие простые числа: доказательство простоты https://habr.com/ru/articles/830958             
+Как алгоритмы KMP и Boyer-Moore улучшают поисковые системы (str) https://habr.com/ru/companies/otus/articles/828572                          
+Большие простые числа: доказательство простоты https://habr.com/ru/articles/830958                 
 
 ## The five letters game 
 <details>
@@ -73,10 +73,15 @@ https://habr.com/ru/articles
    <summary>Others ML / DL / DS / AI</summary>           
 Выпускные проекты участников senior-буткемпа «кодИИм» (июль 2024 г.) https://habr.com/ru/hubs/python/articles/                    
 Слияние словарей в PyTorch: зачем нужно и подводные камни https://habr.com/ru/companies/ruvds/articles/825950/               
+ResNet-18: ищем динозавров или упражнения с векторами https://habr.com/ru/articles/830836/                
+
           
 SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/808415/                
 Руководство по Apache Spark не для начинающих: оптимизация https://habr.com/ru/companies/alfa/articles/829622/          
 </details>
+
+### Books
+[“Машинное обучение с PyTorch и Scikit-Learn”](https://habr.com/ru/companies/ssp-soft/articles/830004/)          
 
 ## Сервисы               
 [**Сравнение сервисов Искусственного Интеллекта**](https://habr.com/ru/articles/830254)                         
@@ -85,6 +90,8 @@ SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/8084
 
 #### LLM 
 Проблемы с логикой у LLM и с доверием не только у LLM https://habr.com/ru/articles/830370/
+Как развивалась технология экстремального сжатия LLM: от QuIP до AQLM с PV-tuning https://habr.com/ru/companies/yandex/articles/830410/            
+[Большие языковые модели: от предобучения до обучения на инструкциях](https://habr.com/ru/articles/830670/)           
 [5 удобных Телеграм-ботов с Chat GPT для написания кода](5 удобных Телеграм-ботов с Chat GPT для написания кода)               
 [Telegram bot, взаимодействующий с API OpenAI без проксирования. Разработка на Python](https://habr.com/ru/companies/amvera/articles/829592/)       
 
