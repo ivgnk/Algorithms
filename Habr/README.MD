@@ -63,13 +63,20 @@ https://habr.com/ru/hubs/python
 
 https://habr.com/ru/articles
 
-ML / DL / DS / AI
+## ML / DL / DS / AI
 <details>
    <summary>Others ML / DL / DS / AI</summary>           
 Выпускные проекты участников senior-буткемпа «кодИИм» (июль 2024 г.) https://habr.com/ru/hubs/python/articles/                    
 Слияние словарей в PyTorch: зачем нужно и подводные камни https://habr.com/ru/companies/ruvds/articles/825950/               
 
+SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/808415/               
+Руководство по Apache Spark не для начинающих: оптимизация https://habr.com/ru/companies/alfa/articles/829622/          
 </details>
+### LLM 
+Проблемы с логикой у LLM и с доверием не только у LLM https://habr.com/ru/articles/830370/
+
+## Visualisation 
+Использование Manim + Python для визуализации. Перестановка (комбинаторика) https://habr.com/ru/articles/829834/
 
 ## Functions                
 05.06.2024 Функции в Python: исчерпывающий гайд      https://skillbox.ru/media/code/funktsii-v-python-dlya-chego-oni-nuzhny-i-kak-s-nimi-rabotat/                               
