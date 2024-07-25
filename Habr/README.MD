@@ -1,7 +1,7 @@
 Статьи                      
 
 # Authors                         
-https://habr.com/ru/users/N-Cube/publications/articles/ - науи о Земле            
+https://habr.com/ru/users/N-Cube/publications/articles/ - науки о Земле            
 https://habr.com/ru/users/Scorobey/publications/articles/ - математика                               
 https://habr.com/ru/users/helenblack/publications/articles - символьные вычисления                   
 
@@ -47,10 +47,8 @@ https://habr.com/ru/articles/647783
 Проcмотрены статьи 18.07.2024-25.07.2024                                   
 18 июл в 19:06 Использование Etcd для построения распределенных кластеризуемых приложений                        
 -
-25.07.2024                    
-Telegram вместо студии звукозаписи: как я создал бота для мобильных музыкантов
-24.07.2024                    
-Memex: как мы можем мыслить? Гипертекстовое устройство из 1945 года                               
+25.07.2024 Внедряем CI/CD в разработку с помощью Gitlab CI              
+24.07.2024 Memex: как мы можем мыслить? Гипертекстовое устройство из 1945 года                               
 
 <details>
    <summary>Habr arcticles</summary>           
@@ -67,7 +65,7 @@ https://habr.com/ru/hubs/python
 Может ли распределение Пуассона описать статистику футбольных матчей https://habr.com/ru/articles/830402/                                                                                           
 
 ## Web           
-25.07.2024 [Как сделать доступ в личный кабинет с помощью Flet](https://habr.com/ru/companies/exolve/articles/831142)            
+25.07.2024 [Как сделать доступ в личный кабинет с помощью Flet](https://habr.com/ru/companies/exolve/articles/831142)                         
 
 
 ## ML / DL / DS / AI
