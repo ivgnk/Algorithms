@@ -47,8 +47,8 @@ https://habr.com/ru/articles/647783
 Проcмотрены статьи 18.07.2024-25.07.2024                                   
 18 июл в 19:06 Использование Etcd для построения распределенных кластеризуемых приложений                        
 -
-25.07.2024 Внедряем CI/CD в разработку с помощью Gitlab CI              
 24.07.2024 Memex: как мы можем мыслить? Гипертекстовое устройство из 1945 года                               
+26.07.2024 Как приручить эмоции, чтобы прийти к успеху
 
 <details>
    <summary>Habr arcticles</summary>           
@@ -62,11 +62,11 @@ https://habr.com/ru/articles/647783
 # Python                 
 https://habr.com/ru/hubs/python                                 
 Прочитаны статьи 19.07.2024-25.07.2024                                  
-Может ли распределение Пуассона описать статистику футбольных матчей https://habr.com/ru/articles/830402/                                                                                           
+Может ли распределение Пуассона описать статистику футбольных матчей https://habr.com/ru/articles/830402/                                                                                          
 
 ## Web           
 25.07.2024 [Как сделать доступ в личный кабинет с помощью Flet](https://habr.com/ru/companies/exolve/articles/831142)                         
-
+26.07.2024 Создание собственного API на Python (FastAPI): Подключаем фронтенд и статические файлы https://habr.com/ru/articles/831386/
 
 ## ML / DL / DS / AI
 
@@ -75,6 +75,9 @@ https://habr.com/ru/hubs/python
 Выпускные проекты участников senior-буткемпа «кодИИм» (июль 2024 г.) https://habr.com/ru/hubs/python/articles/                    
 Слияние словарей в PyTorch: зачем нужно и подводные камни https://habr.com/ru/companies/ruvds/articles/825950/               
 ResNet-18: ищем динозавров или упражнения с векторами https://habr.com/ru/articles/830836/                
+Обучение с подкреплением на основе обратной связи от человека (RLHF). История становления идеи https://habr.com/ru/articles/830102/               
+RLHF. История становления идеи — 2 https://habr.com/ru/articles/830512/               
+
 
           
 SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/808415/                
@@ -102,6 +105,7 @@ SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/8084
 
 
 ## ГИС    
+2024 **[Проект Overture Maps представил открытые наборы картографических данных](https://habr.com/ru/news/831530/)**                  
 Все реки в порядке: как и зачем в географических науках ранжируют водотоки https://habr.com/ru/articles/830334/                
 
 ## Управление             
@@ -118,4 +122,6 @@ SPARK для «малышей» https://habr.com/ru/companies/alfa/articles/8084
 ## geopandas                                    
 https://habr.com/ru/search/?q=[geopandas]&target_type=posts&order=date                                                 
 
+## Игры 
+Donkey.bas на Python в 170 строк https://habr.com/ru/articles/831198/                
 
